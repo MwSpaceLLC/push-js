@@ -6,13 +6,13 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Fake js Pysh</title>
   </head>
   <body>
   <button> Try Me </button>
   </body>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/push-js@master/fake-push.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/push-js@1.2/fake-push.min.js"></script>
   <script type="text/x-ecmascript">
     $('button').click(function(){
       $.push(
@@ -24,4 +24,4 @@
   </script>
 </html>
 ```
-🚀 Try yourself at https://jsfiddle.net/5kvt4uhe/10/
+🚀 Try yourself at <a href="https://jsfiddle.net/sdj1a9p6/3/" target="_blank">jsfiddle</a>
