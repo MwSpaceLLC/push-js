@@ -4,11 +4,11 @@
 
 🚀 Try yourself at <a href="https://jsfiddle.net/sdj1a9p6/3/" target="_blank">jsfiddle</a>
 
-> First, Import plugin with cdn: 
+> First, Import plugin with cdn after jquery: 
 ```
   <script src="https://cdn.jsdelivr.net/gh/MwSpaceLLC/push-js@1.2/fake-push.min.js"></script>
 ```
-> now. Fire your first Notification!
+> Then Fire your first Notification!
 ```
   $.push('Title', 'Description','icon.png')
 ```
